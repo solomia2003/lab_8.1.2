@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Solomia\source\repos\Project81.2\Project81.2\Source.cpp(65): warning C4715: 'Insert2': not all control paths return a value
+C:\Users\Solomia\source\repos\Project81.2\Project81.2\Source.cpp(75): warning C4715: 'Insert3': not all control paths return a value
+  Project81.2.vcxproj -> C:\Users\Solomia\source\repos\Project81.2\Debug\Project81.2.exe
